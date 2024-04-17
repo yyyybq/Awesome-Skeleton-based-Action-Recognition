@@ -44,6 +44,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **CVPR**
 - LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2404.00532.pdf)]
+- Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[code](https://github.com/azzh1/PURLS)]
 
 **AAAI**
 - Dynamic Semantic-Based Spatial Graph Convolution Network for Skeleton-Based Human Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28440)] [[code](https://github.com/davelailai/DS-GCN)]
